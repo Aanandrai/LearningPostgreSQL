@@ -1,6 +1,6 @@
 # LearningPostgreSQL User API
 
-A simple RESTful API for managing users, built with Express and PostgreSQL.
+A simple RESTful API for managing users(CRUD), built with Express and PostgreSQL using node pg.
 
 ## Table of Contents
 
